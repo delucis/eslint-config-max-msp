@@ -3,7 +3,7 @@
   "description": "ESLint configuration for Cycling 74’s Max/MSP",
   "author": "Chris Swithinbank <swithinbank@gmail.com> (http://chrisswithinbank.net/)",
   "license": "GPL-3.0",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "scripts": {
     "prerelease": "npm t",
     "release": "standard-version -s",
@@ -25,7 +25,10 @@
     "standard-version": "7.0.0"
   },
   "main": "index.js",
-  "files": ["index.js", "lib/*.js"],
+  "files": [
+    "index.js",
+    "lib/*.js"
+  ],
   "config": {
     "commitizen": {
       "path": "./node_modules/cz-conventional-changelog"
