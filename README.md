@@ -20,9 +20,9 @@ This is a plugin for [ESLint][eslint]. It can help you write JavaScript for use 
 
 ## Usage
 
-> <small>💡 If you haven’t used ESLint before, you might want to read [“Getting Started with ESLint”][eslintro]</small>
+> 💡 If you haven’t used ESLint before, you might want to read [“Getting Started with ESLint”][eslintro]
 
-To use this plugin, include an ESLint configuration file in your project. Below are example configuration files written in JSON and YAML.
+To use this plugin, include an ESLint configuration file in your project. Below are example configuration files written in JSON and YAML. You can use whichever format you are more comfortable with and ESLint also supports [JavaScript configuration files][eslconfig].
 
 ### `.eslintrc.json`
 
@@ -50,3 +50,4 @@ To use this plugin, include an ESLint configuration file in your project. Below 
 [eslint]: https://eslint.org/
 [c74]: https://cycling74.com/
 [eslintro]: https://eslint.org/docs/user-guide/getting-started
+[eslconfig]: https://eslint.org/docs/user-guide/configuring#configuration-file-formats
