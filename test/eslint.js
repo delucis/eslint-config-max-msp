@@ -56,7 +56,6 @@ test('errors on bad indentation', t => {
 
 test('errors on undeclared globals', t => {
   const linted = lint(undeclaredGlobal)
-  t.log(linted.results[0].messages)
   t.is(linted.errorCount, 1)
   t.is(linted.fixableErrorCount, 0)
   t.is(linted.results[0].messages[0].ruleId, 'no-undef')
