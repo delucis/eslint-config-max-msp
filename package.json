@@ -3,6 +3,7 @@
   "description": "Max/MSP JavaScript plugin for ESLint",
   "author": "Chris Swithinbank <swithinbank@gmail.com> (http://chrisswithinbank.net/)",
   "license": "GPL-3.0",
+  "version": "0.1.0",
   "scripts": {
     "prerelease": "npm t",
     "release": "standard-version -s",
