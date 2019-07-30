@@ -16,13 +16,13 @@
     "eslint": ">=0.8.0"
   },
   "devDependencies": {
-    "ava": "*",
-    "commitizen": "*",
-    "coveralls": "*",
-    "cz-conventional-changelog": "*",
-    "nyc": "*",
-    "standard": "*",
-    "standard-version": "*"
+    "ava": "2.2.0",
+    "commitizen": "4.0.3",
+    "coveralls": "3.0.5",
+    "cz-conventional-changelog": "3.0.2",
+    "nyc": "14.1.1",
+    "standard": "13.1.0",
+    "standard-version": "7.0.0"
   },
   "config": {
     "commitizen": {
