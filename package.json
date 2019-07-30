@@ -11,6 +11,9 @@
     "test": "nyc ava",
     "coverage": "nyc report --reporter=text-lcov | coveralls"
   },
+  "peerDependencies": {
+    "eslint": ">=0.8.0"
+  },
   "devDependencies": {
     "ava": "*",
     "commitizen": "*",
