@@ -33,5 +33,6 @@
     "url": "https://github.com/delucis/eslint-plugin-max-msp.git"
   },
   "bugs": "https://github.com/delucis/eslint-plugin-max-msp/issues",
-  "homepage": "https://npmjs.com/package/eslint-plugin-max-msp"
+  "homepage": "https://npmjs.com/package/eslint-plugin-max-msp",
+  "keywords": ["eslint", "eslintplugin", "max-msp", "max", "cycling74"]
 }
