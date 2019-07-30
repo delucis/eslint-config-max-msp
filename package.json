@@ -24,6 +24,8 @@
     "standard": "13.1.0",
     "standard-version": "7.0.0"
   },
+  "main": "index.js",
+  "files": ["index.js", "lib/*.js"],
   "config": {
     "commitizen": {
       "path": "./node_modules/cz-conventional-changelog"
