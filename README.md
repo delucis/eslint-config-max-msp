@@ -41,7 +41,12 @@ To use this configuration, you need to include an ESLint configuration file in y
     - max-msp
 ```
 
+## Contributing
+
+If you’re interested in helping out, wonderful! There are some guidelines on [how to contribute](CONTRIBUTING.md) and a [code of conduct][COC] outlining how to be supportive of one another.
+
 [eslint]: https://eslint.org/
 [c74]: https://cycling74.com/
 [eslintro]: https://eslint.org/docs/user-guide/getting-started
 [eslconfig]: https://eslint.org/docs/user-guide/configuring#configuration-file-formats
+[COC]: CODE_OF_CONDUCT.md
