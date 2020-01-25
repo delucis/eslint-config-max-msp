@@ -1,6 +1,6 @@
-import test from 'ava'
-import eslint from 'eslint'
-import baseConfig from '../'
+const test = require('ava')
+const eslint = require('eslint')
+const baseConfig = require('../')
 
 const CLIEngine = eslint.CLIEngine
 const cli = new CLIEngine({
