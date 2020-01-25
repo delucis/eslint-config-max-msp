@@ -1,5 +1,5 @@
-import test from 'ava'
-import m from '../'
+const test = require('ava')
+const m = require('../')
 
 test('exports ESLint config object', t => {
   t.is(typeof m, 'object')
