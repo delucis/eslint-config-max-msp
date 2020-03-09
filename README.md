@@ -1,6 +1,6 @@
 # eslint-config-max-msp
 
-[![npm version](https://img.shields.io/npm/v/eslint-config-max-msp.svg)](https://www.npmjs.com/package/eslint-config-max-msp) [![Build Status](https://travis-ci.com/delucis/eslint-config-max-msp.svg?branch=latest)](https://travis-ci.com/delucis/eslint-config-max-msp) [![Coverage Status](https://coveralls.io/repos/github/delucis/eslint-config-max-msp/badge.svg?branch=latest)](https://coveralls.io/github/delucis/eslint-config-max-msp?branch=latest) [![Known Vulnerabilities](https://snyk.io/test/npm/eslint-config-max-msp/badge.svg)](https://snyk.io/test/npm/eslint-config-max-msp) [![Greenkeeper badge](https://badges.greenkeeper.io/delucis/eslint-config-max-msp.svg)](https://greenkeeper.io/)
+[![npm version](https://img.shields.io/npm/v/eslint-config-max-msp.svg)](https://www.npmjs.com/package/eslint-config-max-msp) [![Build Status](https://travis-ci.com/delucis/eslint-config-max-msp.svg?branch=latest)](https://travis-ci.com/delucis/eslint-config-max-msp) [![Coverage Status](https://coveralls.io/repos/github/delucis/eslint-config-max-msp/badge.svg?branch=latest)](https://coveralls.io/github/delucis/eslint-config-max-msp?branch=latest) [![Known Vulnerabilities](https://snyk.io/test/npm/eslint-config-max-msp/badge.svg)](https://snyk.io/test/npm/eslint-config-max-msp) 
 
 > 🔎 ESLint configuration for Cycling 74’s Max/MSP
 
